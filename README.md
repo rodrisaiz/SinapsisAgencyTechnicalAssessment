@@ -1,4 +1,7 @@
-![Sinapsis Logo](sinapsis-logo.png)
+<div align="start">
+  <img src="sinapsis-logo.png" alt="Sinapsis Logo" width="200" height="200">
+</div>
+
 [Sinapsis Agency](https://sinapsis.agency/)
 
 # PokeApp
