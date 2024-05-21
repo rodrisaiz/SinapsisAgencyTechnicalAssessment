@@ -22,7 +22,9 @@ class PokemonController extends Controller
     {
         $lastTenPokemons = $this->pokemonService->getLastTenPokemons();
         
-        dd($lastTenPokemons);
+        return Inertia::render('Home', [
+            'pokemon' => $lastTenPokemons
+        ]);
 
     }
 
